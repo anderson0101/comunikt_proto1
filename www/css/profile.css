@@ -1,0 +1,16 @@
+.login-form-wrapper {
+	background: #ececec !important;
+	overflow: hidden;	
+	padding: 50px 15px;
+	clear: both;
+}
+.login-container {
+	background: #fff;
+	padding: 10px;
+}
+
+.usermail-field {
+	height: 50px;
+	width: 100%;
+}
+

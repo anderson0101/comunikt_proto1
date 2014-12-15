@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.menu.menu-left {
+	background: #462347;
+}
+
+.menu.menu-left .list .item, .menu.menu-left .list .item a {
+	background: #462347;
+	text-transform: none;
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	border:none;
+	position: relative;
+}
+
+.menu.menu-left .list .item a img {
+	width: 36px;
+	height: auto;
+}
+
+a.item-content img {
+	margin-right: 10px;
+}
+
+.profile-avatar-menu {
+	padding: 25px 0;
+	width: 1005;
+}
+
+.loginbutton {
+	font-size: 12px;
+	color: #fff;
+	padding: 10px;
+	text-transform: uppercase;
+	background: #17c4bb;
+	border-radius: 4px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.registerbutton {
+	font-size: 11px;
+	color: #d11e47;
+	padding: 20px 0;
+	text-transform: uppercase;
+	background: none;	
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;	
+	font-weight: bold;
+}

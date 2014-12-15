@@ -1,0 +1,134 @@
+/* Empty. Add your own CSS if you like */
+body {margin: 0px; padding: 0px; }
+.wraper_content {width:100%; height: 674px; margin: 0 auto; }
+.header {width: 100%; height: 79px; background: #462347;overflow: hidden;}
+.botom_back {width: 37px; height: 37px;margin-top: 21px; margin-left: 11px;float: left;}
+.title_header {color:#fff; font-size: 24px; margin-top: 31px;margin-left: 48px;float: left;width: 69%;font-size: 18px;}
+
+.slider_home {width:100%; height: 184px;  border-top: 9px solid #17c4bb;}
+
+.selects_home {width: 100%; height: auto;float: left;  border-bottom: 5px solid #e5e5e5;overflow: hidden;}
+.selects_home img {margin-top: 24px; margin-left: 24px; float: left;}
+.text_selets {color: #462347; margin-left: 23px; margin-top: 39px;float: left;width: 39%;}
+.img_next {float: right!important;margin-top: -5px!important ; margin-left: 0px!important}
+.owl-item .item img {width: 100%; height: 183px;}
+
+.fb {float: left; margin-left: 19px;margin-top: 2px;}
+.tw{float: left;margin-left:20px; margin-top: 2px;}
+.footer {width: 100%; height: 44px; border-bottom: 4px solid #b4b4b4;float: left; background: #c8c8c8;}
+.share {float: right; margin-right: 17px;margin-top: -2px;}
+
+.login_content {height: 528px; width:457px; margin: 0 auto;float: left; background: red}
+.bar.bar-stable{background: #462347!important; height: 80px;}
+.title.ng-binding{color: #fff!important;margin-top: 17px;}
+.button.button-icon.icon.ion-navicon{color: #fff!important;}
+
+
+
+/*como obtener la capacitacion*/
+.content_como_capa {height: auto; width:100%;  border-bottom: 1px solid #b0b0b0; }
+.title_como {color:#462347; margin-top: 65px!important;margin-left: 24px!important; font-size: 24px;}
+.text_como {margin-top: 11px!important;margin-left: 24px!important;font-size: 16px; color: #767676;   height: auto;  line-height: 35px; overflow: hidden; padding: 0 14px 2px 0; text-align: justify;}
+.img_como {width: 100%;}
+.wrapper_sub .title_como {margin-left: 0px!important; margin-top: 18px!important;font-size: 19px; width: 100%;float: left;}
+.venci {color: #dd6a7f; font-size: 14px;margin-top: 22px!important;float: right;margin-right: 50px;}
+.wrapper_sub {height: auto; border-bottom: 4px solid #e5e5e5;float: left;}
+.text_sub { float: left; height: auto; padding-bottom:24px; text-align: justify; width: 100%; color: #8a8a8a; line-height: 25px; font-size: 12px; border-bottom: 1px solid #c0c0c0; }
+.pie_asis {width: 100%; height: 56px;float: left;margin-bottom: 20px; }
+.comen24  {width: 100%;margin-left: 0px;margin-top: 0px; color: #8c8c8c;float: left; margin-top: 20px;}
+.comen25  {width: 131%;margin-left: -12px;margin-top: 20px; color: #8c8c8c;float: left;text-align: center;}
+.comen25 img {margin-left: 6px; margin-top: -8px;}
+.comen24 > span {text-decoration: underline;  color: #d33053;}
+.baner {margin-top: 35px; position: relative;z-index: -222;}
+
+
+@media (max-width: 413px) {
+	.comen24 {margin-top: 0px;}
+
+ }
+
+
+ /*Modulo  de capacitacion*/
+
+ .Mod_cap1 {color: #462347; margin-left: 23px; margin-top: 11px;width: 54%;}
+  .Mod_cap {color: #8a8a8a; margin-left: 23px; margin-top: 11px;width: 75%; font-size: 13px;}
+  .img_asistir {   float: right !important;
+    margin-right: -25px !important;
+    margin-top: -5px !important;}
+
+    .bord {border-left:1px solid #8a8a8a; border-bottom:1px solid #8a8a8a; text-align: center;line-height: 31px; height: auto; text-decoration: none; padding: 8px; display: block;}
+    .bord2 {border-left:1px solid #8a8a8a; border-bottom:1px solid #8a8a8a; text-align: center;line-height: 31px; height: auto; text-decoration: none;padding: 8px; display: block;}
+    .bord:active,
+    .bord:hover {background: #17c4bb; color: #fff!important;}
+    .bord:link{text-decoration: none;}
+    .bord2:active,
+    .bord2:hover {background: #17c4bb; color: #fff!important;}
+    .bord2:link{text-decoration: none;}
+    .Mod_cap3 {float: left; margin-top: 23px;margin-left: -4px; color: #7a7a7a;padding: 28px 0;width: 100%}
+    .Mod_cap4 {float: right; margin-top: 23px;margin-left: 32px; color: #7a7a7a;padding: 28px 0; width: 100%}
+     .Mod_cap0 {color: #462347; margin-left: 23px; margin-top: 23px;float: left; color: #7a7a7a;padding: 28px 0;width: 100%}
+     .img_foto { float: left; margin-left: 23px; margin-top: -173px; z-index: 9999;}
+     .banner_pad {width: 100%; height: auto;position: relative;z-index: -222;}
+     .face {margin-left: 32px; margin-top: -167px; position: relative; z-index: -222;float: left;}
+     .name {color:#dbc5a4;font-size: 28px;width: 100%}
+     .descrip {color: #fff;}
+     .descrip1 {color: #fff; font-size: 30px;}
+     .info { position: relative; margin-top: -162px;width: 225px; float: right;}
+     .info2 {position: relative; margin-top: -162px;width: 225px; float: left;}
+     .info2 .descrip {font-size: 12px;}
+     .col-xs-3.col-sm-3.col-md-3.col-lg-3 > img {margin-left: 0px;}
+     .col-xs-3.col-sm-4.col-md-4.col-lg-4 > img {margin-left: 0px;}
+     .Mod_cap_3 {float: left; margin-left: 10px; color: #7a7a7a;padding: 28px 0;width: 100%;margin-top: 0px;}
+     .img_comum {margin-top: 11px!important;}
+     .img_sig {  margin-left: 0; margin-top: -97px;}
+
+    @media (max-width: 380px) {
+	.bord2 {font-size: 10px; height: auto;}
+
+ }
+
+     @media (max-width: 360px) {
+	.info {
+     float: right;
+    margin-top: -140px;
+    position: relative;
+    width: 100%; }
+
+    .info2 { float: left;
+    margin-top: -128px;
+    position: relative;
+    width: 225px;}
+.descrip {font-size: 12px;}
+.img_foto {
+    float: left;
+    margin-left: -9px;
+    margin-top: -135px;
+    width: 97%;
+    z-index: 9999;
+}
+
+.face {
+    float: left;
+    margin-left: -2px;
+    margin-top: -131px;
+    position: absolute;
+    width: 64%;
+    z-index: -222;
+}
+.descrip1,
+.name {font-size: 21px;}
+
+.selects_home img {margin-top: 24px; margin-left: 7px; float: left;}
+
+ }
+
+ @media (min-width: 344px) and (max-width: 349px;) {
+.img_foto {
+    float: left;
+    margin-left: -8px;
+    margin-top: -142px;
+    position: absolute;
+    width: 97%;
+    z-index: 9999;
+}
+}

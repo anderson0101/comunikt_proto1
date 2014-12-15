@@ -1,0 +1,64 @@
+<ion-side-menus>
+
+  <ion-side-menu-content>
+    <ion-nav-bar class="bar-stable nav-title-slide-ios7">
+      <ion-nav-back-button class="button-clear">
+        <i class="icon ion-ios7-arrow-back"></i>
+      </ion-nav-back-button>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent" animation="slide-left-right"></ion-nav-view>
+  </ion-side-menu-content>
+
+  <ion-side-menu side="left" width="280">
+
+      
+
+    <ion-content>
+      <div class="container profile-avatar-menu">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+          <img src="img/menu/avatar.png" width="100%" />
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">            
+            <div class="loginbutton" menu-close ng-click="goTo('app.perfil_login')">iniciar</div>
+          </div>
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">            
+            <div class="registerbutton" menu-close ng-click="login()">registrarme</div>
+          </div>          
+        </div>
+      </div>
+
+      <ion-list>
+        
+        <ion-item nav-clear menu-close href="#/app/home/home">
+          <img src="img/menu/home-icon.png" /> <span>Home</span>
+        </ion-item>
+
+        <ion-item nav-clear menu-close href="#/app/capacitacion/home">
+          <img src="img/menu/capacitacion-icon.png" /> Capacitación
+        </ion-item>
+
+        <ion-item nav-clear menu-close href="#/app/search">
+          <img src="img/menu/reporteria-icon.png" /> Reportería
+        </ion-item>
+
+        <ion-item nav-clear menu-close href="#/app/incentivos/info">
+          <img src="img/menu/incentivos-icon.png" /> Incentivos
+        </ion-item>
+
+        <ion-item nav-clear menu-close href="#/app/premios/consulta">
+          <img src="img/menu/consulta-icon.png" /> Consulta de premios
+        </ion-item>
+
+        <ion-item nav-clear menu-close href="#/app/incentivos/calculo">
+          <img src="img/menu/pagos-icon.png" /> Pago de incentivos
+        </ion-item>
+
+        <ion-item nav-clear menu-close href="#/app/soporte/home">
+          <img src="img/menu/soporte-icon.png" /> Soporte técnico
+        </ion-item>
+        
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

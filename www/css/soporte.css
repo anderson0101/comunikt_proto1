@@ -1,0 +1,58 @@
+.como_funciona h1{
+	color: #462347;
+	margin-top: 30px !important;
+	margin-left: 10px !important;
+	font-size: 24px !important;
+}
+
+.parrafo{
+
+	color: #464646 !important;
+	margin-top: 24px !important;
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+}
+
+.border{
+
+	border-bottom: 1px solid #b0b0b0 ;
+}
+
+.img_faq{
+	margin-left: 115px;
+}
+
+.text_faq{
+	color: #464646 !important;
+	font-weight: inherit;
+	font-size: 18px;
+}
+
+.nopadding {
+	padding: 0;
+}
+
+.lowpadding {
+	padding: 20px;
+}
+
+.border_left{
+	border-left: 1px solid #b0b0b0 ;
+}
+
+img {
+vertical-align: middle;
+margin-top: 25px;
+}
+
+.como_funciona .title_chat h1{
+	margin-top: 65px !important;
+}
+
+.msj-left{
+	margin-left: 10px;
+}
+
+.msj-right{
+	margin-right: 10px;
+}
